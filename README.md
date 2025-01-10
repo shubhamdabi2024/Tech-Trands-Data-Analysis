@@ -2,6 +2,23 @@
 "Data-driven insights into Tech Trends. Explore product performance, sales analysis, and more."
 - <a href= "https://github.com/shubhamdabi2024/Tech-Trands-Data-Analysis/blob/main/Tech%20Trands%20Data.xlsx">Dataset</a>
 
+# Tool Used:
+- MS Office Excel
+- Power Query
+
+# Tasks Performed:
+- Data Import and Transformation
+- Data Cleaning
+- Data Processing
+- Data Analysis
+- KPI Creation
+- Creating Pivot Tables
+- Filtering and Slicing
+- Insight Generation
+- Dashboard Layout
+- Created Reports
+
+
 # Questions
 General Overview Questions
 - What is the total revenue generated across all years?
