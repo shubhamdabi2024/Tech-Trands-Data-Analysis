@@ -51,7 +51,7 @@ Visual-Specific Queries
 - What are the insights derived from the tree map for brand-wise statuses?
 - How effective is the visualization for identifying year-wise trends in the top 10 products?
 
-## Don't Forget to follow me on  <a href= "https://www.linkedin.com/in/shubham-dabi-9175992b1?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BzwKecuw4RcqtZJIfbfkl%2Fg%3D%3D">Linkdin</a>
+## Don't Forget to follow me on  <a href= "https://www.linkedin.com/in/shubham-dabi-9175992b1?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BzwKecuw4RcqtZJIfbfkl%2Fg%3D%3D">Linkedin</a>
 
 
 ## Presented by - Shubham Dabi @ Aspiring Data Analyst
