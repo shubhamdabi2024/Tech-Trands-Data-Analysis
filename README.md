@@ -2,6 +2,9 @@
 "Data-driven insights into Tech Trends. Explore product performance, sales analysis, and more."
 - <a href= "https://github.com/shubhamdabi2024/Tech-Trands-Data-Analysis/blob/main/Tech%20Trands%20Data.xlsx">Dataset</a>
 
+<a href= "https://github.com/shubhamdabi2024/Tech-Trands-Data-Analysis/blob/main/Tech%20Trands%20Page%201.png">View Dashboard Page 1</a>
+<a href= "https://github.com/shubhamdabi2024/Tech-Trands-Data-Analysis/blob/main/Tech%20Trands%20Page%202.png">View Dashboard Page 2</a>
+
 # Tool Used:
 - MS Office Excel
 - Power Query
@@ -52,5 +55,4 @@ Visual-Specific Queries
 
 
 ## Presented by - Shubham Dabi @ Aspiring Data Analyst
-
 ## Thank you
